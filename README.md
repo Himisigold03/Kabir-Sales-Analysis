@@ -1,36 +1,49 @@
+# Kabir Sales Analysis Report
+
 ## Executive Summary
 
-This report presents an analysis of Kabir’s sales performance over multiple years, focusing on sales trends, quantity of goods sold, and individual sales representative performance. It also examines the impact of inventory on overall business outcomes.
+This is a report of Kabir sales analysis. It comprises the trend of sales per year, quantity of goods sold across the years, and per sales representative.
 
-The findings reveal fluctuations in sales performance, with a noticeable decline in the quantity of goods purchased between 2010 and 2012. This downward trend suggests potential operational or market-related challenges that require further investigation. Additionally, the report highlights variations in the performance of sales representatives, indicating differences in efficiency and revenue generation.
+This is not just an analysis, but it also shows the impact of inventory across the years and the performance of each sales representative in the organization. It also shows the overall business health, where there is a decline in the quantity of goods purchased from 2010–2012, meaning there is a need to figure out where the organization is lagging or why there is a decrease in the quantity of goods sold across the years.
 
-Overall, the analysis provides insight into the company’s business health and identifies key areas that may require strategic intervention to improve sales performance and operational efficiency.
+---
+
+## Problem Statement
+
+The Kabir Store wants to know the sales performance within 2010–2012 so as to check whether sales are lagging or improving.
+
+---
+
+## Key Insights
+
+- **1224.00** is the total quantity of goods sold across the 3 years:
+  - **476** in 2010
+  - **380** in 2011
+  - **368** in 2012
+
+  This represents a **20% decrease** as at 2011 and **22.69% decrease** as at 2012.
+
+- **52.89**, **63.33**, and **40.89** are the average quantities of goods sold across 2010, 2011, and 2012 respectively.
+
+- According to the sales representatives:
+  - **Tola** had the highest transactions and also had the highest revenue.
+  - **Abdul** followed after Tola.
+  - **Ada** had more transactions than **Ese** but generated lesser revenue than Ese.
+
+- The sales behavior is said to decline across the years.
 
 ---
 
 ## Business Recommendations
 
-### 1. Improve Sales Efficiency
-- Tola recorded the highest number of transactions and generated the most revenue, followed by Abdul.  
-- Although Ada completed more transactions than Ẹse, Ẹse generated higher revenue, suggesting better value per sale.  
-- The company should analyze the strategies used by top-performing sales representatives and implement best practices across the team.
+- Adopt the 2010 sales strategy:
+  - Check what worked in 2010 that improved sales and adopt it.
 
-### 2. Investigate Sales Decline
-- The decline in sales between 2010 and 2012 may be due to factors such as poor inventory management, market competition, pricing issues, or reduced customer demand.  
-- A deeper analysis should be conducted to identify the root causes and address them effectively.
+- Since inventory impacts sales performance, the company should ensure proper stock levels to avoid shortages or overstocking.
 
-### 3. Optimize Inventory Management
-- Since inventory impacts sales performance, the company should ensure proper stock levels to avoid shortages or overstocking.  
 - Implementing inventory tracking systems can improve forecasting and availability.
-
-### 4. Workforce Expansion and Training
-- Hiring additional sales staff in 2013 could help increase sales volume and market coverage.  
-- Regular training programs should be introduced to improve sales skills and productivity.
-
-### 5. Focus on Revenue Quality, Not Just Quantity
-- Encourage sales representatives to focus on higher-value transactions, not just the number of sales.  
-- Introduce incentives that reward both volume and revenue generation.
-
+- The company should hire more sales representatives in 2013 so as to increase the quantity of goods sold and reach a wider audience.
+    
 Representation Tables
 <img width="1204" height="583" alt="Screenshot 2026-05-03 012420" src="https://github.com/user-attachments/assets/05db2dc4-5d59-4d99-8bf0-c1d2d5da383b" />
 <img width="1284" height="583" alt="Kabir sales image" src="https://github.com/user-attachments/assets/f76d25ef-bc06-43a6-85fd-6f01a88e7026" />
